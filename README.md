@@ -12,7 +12,7 @@ Hi, I'm **Sanjay Sivakumar** — a second-year **Artificial Intelligence and Mac
 - 💻 Interested in Software Development, AI/ML, and Data Structures & Algorithms
 - 📚 Continuously learning and building foundational skills through practice and projects
 - 🎯 Preparing for internship opportunities in software and AI/ML roles
-- 🤝 Open to collaboration and learning from the developer community
+- 🤝 Open tp collaboration and learning from the developer community
 
 ---
 
