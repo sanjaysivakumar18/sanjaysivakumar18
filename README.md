@@ -18,15 +18,6 @@
 
 ## 🧑‍💻 About Me
 
-```yaml
-name: Sanjay Sivakumar
-role: AIML Undergraduate @ Bannari Amman Institute of Technology
-year: Second Year
-focus: [Software Development, Machine Learning, Generative AI, DSA]
-status: Preparing for Software & AI/ML Internships
-fun_fact: Building foundations one project at a time 🚀
-```
-
 - 🎓 Second-year **AIML** student at **Bannari Amman Institute of Technology**
 - 💻 Interested in **Software Development**, **AI/ML**, and **Data Structures & Algorithms**
 - 📚 Continuously learning and building foundational skills through practice and projects
