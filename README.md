@@ -1,22 +1,43 @@
-# Sanjay Sivakumar
+<div align="center">
 
-## Introduction
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=200&section=header&text=Sanjay%20Sivakumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Enthusiast%20%7C%20Software%20Developer%20%7C%20Lifelong%20Learner&descAlignY=55&descSize=18" width="100%"/>
 
-Hi, I'm **Sanjay Sivakumar** — a second-year **Artificial Intelligence and Machine Learning (AIML)** student at **Bannari Amman Institute of Technology**. I'm focused on strengthening my programming, problem-solving, and software development skills, with a growing interest in AI/ML and Generative AI. I'm currently preparing for software and AI internship opportunities.
+<br/>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Second-year+AIML+Student;Exploring+Generative+AI+%26+RAG;Preparing+for+Internships;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-## About Me
+<br/><br/>
 
-- 🎓 Second-year AIML student at Bannari Amman Institute of Technology
-- 💻 Interested in Software Development, AI/ML, and Data Structures & Algorithms
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-sivakumar-01240037b)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanch.builds@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjaysivakumar18)
+
+</div>
+
+<br/>
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Sanjay Sivakumar
+role: AIML Undergraduate @ Bannari Amman Institute of Technology
+year: Second Year
+focus: [Software Development, Machine Learning, Generative AI, DSA]
+status: Preparing for Software & AI/ML Internships
+fun_fact: Building foundations one project at a time 🚀
+```
+
+- 🎓 Second-year **AIML** student at **Bannari Amman Institute of Technology**
+- 💻 Interested in **Software Development**, **AI/ML**, and **Data Structures & Algorithms**
 - 📚 Continuously learning and building foundational skills through practice and projects
-- 🎯 Preparing for internship opportunities in software and AI/ML roles
-- 🤝 Open tp collaboration and learning from the developer community
+- 🎯 Preparing for internship opportunities in **software** and **AI/ML** roles
+- 🤝 Open to collaboration and learning from the developer community
 
----
+<br/>
 
-## Technical Skills
+## 🛠️ Technical Skills
+
+<div align="center">
 
 **Programming Languages**
 
@@ -35,59 +56,67 @@ Hi, I'm **Sanjay Sivakumar** — a second-year **Artificial Intelligence and Mac
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+</div>
 
-## Areas of Interest
+<br/>
 
-- Artificial Intelligence
-- Machine Learning
-- Data Structures & Algorithms
-- Software Development
-- Generative AI
-- Retrieval-Augmented Generation (RAG)
+## 🎯 Areas of Interest
 
----
+<table align="center">
+<tr>
+<td align="center" width="200">🤖<br/><b>Artificial Intelligence</b></td>
+<td align="center" width="200">📊<br/><b>Machine Learning</b></td>
+<td align="center" width="200">🧩<br/><b>Data Structures & Algorithms</b></td>
+</tr>
+<tr>
+<td align="center" width="200">🛠️<br/><b>Software Development</b></td>
+<td align="center" width="200">✨<br/><b>Generative AI</b></td>
+<td align="center" width="200">🔎<br/><b>RAG</b></td>
+</tr>
+</table>
 
-## Currently Learning
+<br/>
 
-- Strengthening Data Structures & Algorithms fundamentals
-- Exploring core Machine Learning concepts
-- Learning about Generative AI and Retrieval-Augmented Generation (RAG)
+## 📖 Currently Learning
 
----
+- 🧩 Strengthening **Data Structures & Algorithms** fundamentals
+- 📊 Exploring core **Machine Learning** concepts
+- ✨ Learning about **Generative AI** and **Retrieval-Augmented Generation (RAG)**
 
-## GitHub Stats
+<br/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjaysivakumar18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaysivakumar18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaysivakumar18&theme=tokyonight&hide_border=true&background=0D1117" />
+</div>
+
+<br/>
+
+## 🚀 Goals
+
+- 🧱 Build strong fundamentals in programming and problem-solving
+- 🌍 Gain practical experience through real-world projects
+- 🤖 Develop skills in software development and AI/ML
+- 🎯 Secure an internship in a software or AI/ML role
+
+<br/>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sanjaysivakumar18&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjaysivakumar18&layout=compact&theme=default&hide_border=true" />
-
-</div>
-
----
-
-## GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanjaysivakumar18&theme=default&hide_border=true" />
-
-</div>
-
----
-
-## Goals
-
-- Build strong fundamentals in programming and problem-solving
-- Gain practical experience through real-world projects
-- Develop skills in software development and AI/ML
-- Secure an internship in a software or AI/ML role
-
----
-
-## Contact / Connect With Me
+### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-sivakumar-01240037b)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanch.builds@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjaysivakumar18)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=100&section=footer" width="100%"/>
+
+</div>
